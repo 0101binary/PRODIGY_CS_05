@@ -1,0 +1,10 @@
+#Packet Sniffer Tool Dependencies
+#ducational version - no external dependencies required for basic functionality
+
+#Optional dependencies for enhanced features:
+scapy>=2.4.5          # Advanced packet manipulation (optional)
+psutil>=5.8.0          # System and process utilities (optional)
+colorama>=0.4.4        # Cross-platform colored terminal text (optional)
+
+#Core functionality uses only Python standard library
+#No external packages required for basic operation 
